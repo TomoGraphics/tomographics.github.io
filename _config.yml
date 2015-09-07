@@ -1,11 +1,34 @@
 # Site settings
-title: µ-tomographics
-email: davidNOTYETWORKINGmicro.tomo.graphics
+title: µ-tomo
+tagline:        'Fancy tagline'
+url: "http://micro.tomo.graphics" # the base hostname & protocol for your site
+email: <a href=mailto:david@micro.tomo.graphics?subject=DOES_NOT_YET_WORK>david@micro.tomo.graphics</a>
 description: > # this means to ignore newlines until "baseurl:"
   We offer microtomographic services.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://micro.tomo.graphics" # the base hostname & protocol for your site
+
+author:
+  name:         'David Haberthür'
+  url:          http://davidhaberthür.ch
+
+
 github_username:  habi
+twitter_username: habi
 
 # Build settings
 markdown: kramdown
+
+# Dependencies
+highlighter:    pygments
+
+# Permalinks
+permalink:      pretty
+
+# Setup
+paginate:       5
+
+# Custom vars
+version:        2.0.0
+
+github:
+  repo:         https://github.com/tomographics/tomographics.github.io
