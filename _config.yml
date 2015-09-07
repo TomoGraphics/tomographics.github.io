@@ -1,0 +1,11 @@
+# Site settings
+title: µ-tomographics
+email: davidNOTYETWORKINGmicro.tomo.graphics
+description: > # this means to ignore newlines until "baseurl:"
+  We offer microtomographic services.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://micro.tomo.graphics" # the base hostname & protocol for your site
+github_username:  habi
+
+# Build settings
+markdown: kramdown
