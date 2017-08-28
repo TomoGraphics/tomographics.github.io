@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello world
-date: {}
+date: '2015.09.09 21:00'
 categories: work data
 published: true
 ---
