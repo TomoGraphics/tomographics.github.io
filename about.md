@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We offer microtomographic services.
+We do microtomography and also offer microtomographic services.
 
 Most easily we can provide tomographic scans done on a [SkyScan 1272][1272] and [SkyScan 1172][1172] from [Bruker].
 
