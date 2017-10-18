@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Mouse head
-date: {}
+date: 2017-10-18
 categories: visualization
-tags: '3dslicer, mouse, skull'
+tags: 3dslicer, mouse, skull, visualization
 published: true
 ---
-
 
 ![Skull](/assets/2017/10/18/mouse-head/MouseHead.png)
 
