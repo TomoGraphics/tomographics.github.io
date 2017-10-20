@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mouse head
+title: "Mouse skull | Mus"
 date: 2017-10-18
 categories: visualization
 tags: 3dslicer, mouse, skull, visualization

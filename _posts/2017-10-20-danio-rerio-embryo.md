@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Danio rerio embryo"
+title: "Zebrafish embryo | Danio rerio"
 date: 2017-10-20
-categories: "visualization*
+categories: visualization
 tags: "visualization, zebrafish, slicer, embryo"
 ---
 

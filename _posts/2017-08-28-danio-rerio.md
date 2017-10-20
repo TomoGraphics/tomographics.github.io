@@ -2,7 +2,8 @@
 layout: post
 title:  "Zebrafish | Danio rerio"
 date:   2017-08-28 16:00
-categories: work data
+categories: work, data
+tags: movie, zebrafish
 ---
 
 We scanned a fixed (4% PFA) and stained (1% Lugol solution) zebrafish.
