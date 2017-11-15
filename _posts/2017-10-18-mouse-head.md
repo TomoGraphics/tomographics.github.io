@@ -3,7 +3,11 @@ layout: post
 title: "Mouse skull | Mus"
 date: 2017-10-18
 categories: visualization
-tags: [3D Slicer, mouse, skull, visualization]
+tags:
+	-3D Slicer
+	- mouse
+	- skull
+	- visualization
 ---
 
 ![Skull](/assets/2017/10/18/mouse-head/MouseHead.png)
