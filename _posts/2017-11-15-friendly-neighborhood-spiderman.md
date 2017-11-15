@@ -14,7 +14,7 @@ tags:
 ![Spider](/assets/2017/11/15/friendly-neighborhood-spiderman/Spider.png)
 
 This friendly spider was bothering our secretary.
-After a nice long bath in pure alcohol (scented with Iodine) it was scanned on our [SkyScan 1272](http://bruker-microct.com/products/1272.htm) with a source Voltage of 50 kV, a source current of 200 µA with camera and geometry settings leading to an isotropic voxel size of 21.7 µm.
+After a nice long bath in 70% Ethanol (scented with Iodine) it was scanned on our [SkyScan 1272](http://bruker-microct.com/products/1272.htm) with a source Voltage of 50 kV, a source current of 200 µA with camera and geometry settings leading to an isotropic voxel size of 21.7 µm.
 The *body* of the spider is approximately 1.2 cm long.
 
 The visualization was made in [3D Slicer](http://slicer.org).
