@@ -3,14 +3,14 @@ layout: post
 title: "3D-print a tomographic scan of a spider"
 date: 2017-12-13
 categories:
-	- 3dprint
-	- gift
+  - 3dprint
+  - gift
 tags:
-	- imagej
-	- fiji
-	- imageprocessing
-	- formlabs
-	- 3dprint
+  - imagej
+  - fiji
+  - imageprocessing
+  - formlabs
+  - 3dprint
 ---
 
 We obtained a [3D data set of a spider]({{ site.baseurl }}{% post_url 2017-11-15-friendly-neighborhood-spiderman %}) and wanted to make a gift for an [arachnophobic](http://enwp.org/arachnophobia) friend.
