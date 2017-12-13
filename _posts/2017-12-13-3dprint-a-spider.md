@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3D-print a tomographic scan of a spider"
-date: 2017-11-20
+date: 2017-12-13
 categories:
 	- 3dprint
 	- gift
@@ -13,7 +13,7 @@ tags:
 	- 3dprint
 ---
 
-[assets]: /assets/2017/11/20/3dprint-a-spider
+[assets]: /assets/2017/12/13/3dprint-a-spider
 
 We obtained a [3D data set of a spider]({{ site.baseurl }}{% post_url 2017-11-15-friendly-neighborhood-spiderman %}) and wanted to make a gift for an [arachnophobic](http://enwp.org/arachnophobia) friend.
 Since we have access to a [Form 2 3D printer](https://formlabs.com/3d-printers/form-2/) we wanted to make a 3D print of the data set.
