@@ -22,7 +22,8 @@ We thus 'resorted' to printing custom-made sample holders on our [3D printer](ht
 The sample holders have been whipped up in [OpenSCAD](http://www.openscad.org/) which is well suited to generate them in a relatively quick way.
 
 Since we think that other people might be able to use them, we put a **complete** copy of all our sample holders up on GitHub.
-You can download the OpenSCAD files for your perusal (e.g. edit them for your needs) or just grab a copy of the STL files, after having looked at them in the [3D viewer over at GitHub](https://github.com/TomoGraphics/Hol3Drs/blob/master/STL/Mouse.Melanoma.Multiple.stl).
+You can download the OpenSCAD files for your perusal (e.g. edit them for your needs) by cloning the repository at [`https://github.com/TomoGraphics/Hol3Drs`](https://github.com/TomoGraphics/Hol3Drs).
+Or you can just grab a copy of the STL files for directly printing them, after having looked at them in the [3D viewer over at GitHub](https://github.com/TomoGraphics/Hol3Drs/blob/master/STL/Mouse.Melanoma.Multiple.stl).
 
 Any contributors to the repository are very welcome, as specified [directly in the repository](https://github.com/TomoGraphics/Hol3Drs/blob/master/CONTRIBUTING.md) (and based on the awesome initiative [here](http://contributionswelcome.org/)).
 
