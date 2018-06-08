@@ -6,7 +6,7 @@ categories:
 	- visualization
 	- fish
 tags: 
-	-visualization
+	- visualization
 	- zebrafish
 	- 3D slicer
 	- embryo

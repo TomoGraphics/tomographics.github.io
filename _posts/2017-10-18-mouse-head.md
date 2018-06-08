@@ -4,7 +4,7 @@ title: "Mouse skull | Mus"
 date: 2017-10-18
 categories: visualization
 tags:
-	-3D Slicer
+	- 3D Slicer
 	- mouse
 	- skull
 	- visualization

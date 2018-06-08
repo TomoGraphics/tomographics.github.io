@@ -3,7 +3,12 @@ layout: post
 title: "Adult zebrafish | Danio rerio"
 date: 1.11.2017
 categories: visualization
-tags: [visualization, imagej, fiji, clearvolume, zebrafish]
+tags:
+  - visualization
+  - imagej
+  - fiji
+  - clearvolume
+  - zebrafish
 ---
 
 ![Adult zebrafish](/assets/2017/11/01/Zebrafish_adult.png)
