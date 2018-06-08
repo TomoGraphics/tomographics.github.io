@@ -2,9 +2,7 @@
 layout: post
 title: "Zebrafish embryo | Danio rerio"
 date: 2017-10-20
-categories:
-	- visualization
-	- fish
+categories: visualization
 tags: 
 	- visualization
 	- zebrafish

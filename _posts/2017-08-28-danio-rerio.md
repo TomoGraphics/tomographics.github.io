@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Zebrafish | Danio rerio"
-date:   2017-08-28 16:00
+title: "Zebrafish | Danio rerio"
+date: 2017-08-28 16:00
 categories:
 	- visualization
 	- fish

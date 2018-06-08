@@ -2,13 +2,12 @@
 layout: post
 title: "Friendly Neighborhood Spider-Man | Araneae"
 date: 2017-11-15
-categories:
-  - fun
-  - visualization
+categories: visualization
 tags:
   - spider
   - 3d slicer
   - visualization
+  - fun
 ---
 
 ![Spider](/assets/2017/11/15/friendly-neighborhood-spiderman/Spider.png)

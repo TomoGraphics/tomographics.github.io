@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adult zebrafish | Danio rerio"
-date: 1.11.2017
+date: 2017-11-01
 categories: visualization
 tags:
   - visualization
