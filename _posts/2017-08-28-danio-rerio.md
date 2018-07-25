@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is a very long and winded title to see where the problem is"
+title: "Stained zebrafish | Danio rerio"
 date: 2017-08-28
 categories: visualization
 ---
