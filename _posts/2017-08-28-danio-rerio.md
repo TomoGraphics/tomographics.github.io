@@ -1,14 +1,8 @@
 ---
 layout: post
-title: "Zebrafish | Danio rerio"
-date: 2017-08-28 16:00
-categories:
-	- visualization
-	- fish
-tags:
-	- movie
-	- zebrafish
-	- ctvox
+title:  "This is a very long and winded title to see where the problem is"
+date: 2017-08-28
+categories: visualization
 ---
 
 <iframe src="https://player.vimeo.com/video/179027348" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
