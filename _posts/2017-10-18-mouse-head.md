@@ -16,5 +16,5 @@ The image shows a 3D visualization of a tomographic scan of a skull of a mouse a
 
 The visualization was made with [3D Slicer](https://www.slicer.org/).
 
-The mouse head was scanned on a [SkyScan 1272](http://bruker-microct.com/products/1272.htm) with a source Voltage of 90 kV, a source current of 111 µA with camera and geometry settings leading to an isotropic voxel size of 11.25 µm.
+The mouse head was scanned on a [SkyScan 1272](https://www.bruker.com/products/microtomography/micro-ct-for-sample-scanning/skyscan-1272/overview.html) with a source Voltage of 90 kV, a source current of 111 µA with camera and geometry settings leading to an isotropic voxel size of 11.25 µm.
 The whole head is approximately 27 mm long.

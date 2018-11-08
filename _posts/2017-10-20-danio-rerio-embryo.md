@@ -15,7 +15,7 @@ tags:
 
 A 3D visualization of a tomographic scan of a stained zebrafish embryos (44h old).
 
-The embryp was scanned on a [SkyScan 1272](http://bruker-microct.com/products/1272.htm) with a source Voltage of 60 kV, a source current of 166 µA with camera and geometry settings leading to an isotropic voxel size of 3 µm.
+The embryp was scanned on a [SkyScan 1272](https://www.bruker.com/products/microtomography/micro-ct-for-sample-scanning/skyscan-1272/overview.html) with a source Voltage of 60 kV, a source current of 166 µA with camera and geometry settings leading to an isotropic voxel size of 3 µm.
 The total length of the zebrafish embryo is  2.7 mm.
 
 The visualization was made with [3D Slicer](https://www.slicer.org/).
