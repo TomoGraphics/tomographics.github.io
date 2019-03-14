@@ -23,7 +23,7 @@ To do so, we did the following steps:
 - We then viewed the data set as *surface* in the [3D Viewer](https://imagej.net/3D_Viewer) of Fiji, which gave us the result shown in the first picture below.
 - The 3D Viewer of Fiji can then be used to save the thresholded spider as [STL file](https://en.wikipedia.org/wiki/STL_(file_format)) ready for printing with a 3D printer (*File* > *Export surfaces* > *STL (binary)*).
   This gave us a 74 MB big STL file (which is quite huge compared to the [other STL files we usually print](https://github.com/habi/OpenSCAD/tree/master/STL)).
-- This STL file was then printed in 3D and spray paintet to result in the gift shown in the second image below (ball point pen shown in the background for scale).
+- This STL file was then printed in 3D and spray painted to result in the gift shown in the second image below (ball point pen shown in the background for scale).
 
 ![3D Viewer](/assets/2017/12/13/3dprint-a-spider/3dviewer.png)
 ![Final result](/assets/2017/12/13/3dprint-a-spider/printed.jpg)
