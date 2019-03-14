@@ -9,7 +9,6 @@ tags:
   - wasp
   - visualization
   - imagevis3d
-  -
 ---
 
 ![A wasp](/assets/2018/07/24/wasp-vespidae/wasp.gif)
