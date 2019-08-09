@@ -19,7 +19,7 @@ To show them what can be done with a microCT, we imaged a long-horned beetle (pr
 The beetle was killed in a light iodine solution and stored in 70 % alcohol for a while.
 We then super-glued it to a toothpick, and mounted it on our [toothpick adapter](https://github.com/TomoGraphics/Hol3Drs/blob/master/STL/Toothpick.stl) for scanning (and showing it to the kids).
 
-It was scanned on a [SkyScan 1272](https://www.bruker.com/products/microtomography/micro-ct-for-sample-scanning/skyscan-1272/overview.html) with a source Voltage of 50 kV, a source current of 200 µA with camera and geometry settings leading to an isotropic voxel size of 10.8 µm, the scan took about 90 minutes.
+It was scanned on a [SkyScan 1272](https://www.bruker.com/products/microtomography/micro-ct-for-sample-scanning/skyscan-1272/overview.html) with a source voltage of 50 kV, a source current of 200 µA with camera and geometry settings leading to an isotropic voxel size of 10.8 µm, the scan took about 90 minutes.
 
 Without the antennae, the beetle has a length of approximately 17 mm.
 
