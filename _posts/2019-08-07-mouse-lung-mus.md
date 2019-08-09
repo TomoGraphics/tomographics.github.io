@@ -16,7 +16,7 @@ tags:
 ![mouse lung](/assets/2019/08/07/mouse-lung-mus/mouse02.gif)
 
 In a new project we scan mouse lungs in which tumors were induced.
-The lung was critically-point-dried and scanned it on a [SkyScan 1272](https://www.bruker.com/products/microtomography/micro-ct-for-sample-scanning/skyscan-1272/overview.html) with a source voltage of 50 kV, a source current of 200 µA with camera and geometry settings leading to an isotropic voxel size of 8 µm.
+The lung was critically-point-dried and scanned on a [SkyScan 1272](https://www.bruker.com/products/microtomography/micro-ct-for-sample-scanning/skyscan-1272/overview.html) with a source voltage of 50 kV, a source current of 200 µA with camera and geometry settings leading to an isotropic voxel size of 8 µm.
 The whole scan took about 53 minutes.
 The tumor is visible in the lower part of the left lung lobe and has a size of approximately 2 mm.
 
