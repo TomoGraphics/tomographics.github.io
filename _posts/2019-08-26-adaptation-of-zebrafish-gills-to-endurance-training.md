@@ -18,7 +18,7 @@ As mentioned [before]({{ site.baseurl }}{% post_url 2019-03-14-zebrafish-gills-d
 For a project on the adaptation of zebrafish gills to endurance training we have been performing a part of the tomographic imaging (the details are specified in the liked post above) as well as the in-depth analysis of the data.
 
 The result of the whole project has been submitted to the [Journal of Experimental Biology](https://jeb.biologists.org/).
-While the manuscript undergoes the review process, you can find a non peer-reviewed preprint of the manuscript here on bioRxiv: http://doi.org/10.1101/744300
+While the manuscript undergoes the review process, you can find a non peer-reviewed preprint of the manuscript here on [bioRxiv](https://www.biorxiv.org/): [http://doi.org/10.1101/744300](http://doi.org/10.1101/744300=).
 
 A quick rundown on how we got to the results: 
 
