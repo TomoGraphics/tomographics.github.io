@@ -17,7 +17,8 @@ tags:
 As mentioned [before]({{ site.baseurl }}{% post_url 2019-03-14-zebrafish-gills-danio-rerio %}), we've been working with a buch of zebrafishes lately.
 For a project on the adaptation of zebrafish gills to endurance training we have been performing a part of the tomographic imaging (the details are specified in the liked post above) as well as the in-depth analysis of the data.
 
-The result of the whole project has been submitted to [PLOS ONE](). While the manuscript undergoes the review process, you can find a non peer-reviewed preprint of the manuscript here on [bioRxiv](https://www.biorxiv.org/): [http://doi.org/10.1101/744300](http://doi.org/10.1101/744300=).
+The result of the whole project has been submitted to [PLOS ONE](https://journals.plos.org/plosone/).
+While the manuscript undergoes the review process, you can find a non peer-reviewed preprint of the manuscript here on [bioRxiv](https://www.biorxiv.org/): [http://doi.org/10.1101/744300](http://doi.org/10.1101/744300=).
 
 A quick rundown on how we got to the results:
 
