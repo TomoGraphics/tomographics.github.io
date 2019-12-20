@@ -22,7 +22,7 @@ While the manuscript undergoes the review process, you can find a non peer-revie
 
 A quick rundown on how we got to the results:
 
-* One group of fishes was trained in a swim tunnel, they trained relatively to an olympic athlete, a control group was lazily swimming in a turned-off swim tunnel.
+* One group of fishes was trained in a swim tunnel, they trained relatively to an Olympic athlete, a control group was lazily swimming in a turned-off swim tunnel.
 * After training (or non-training), the fishes were sacrificed and prepared for tomographic imaging by our expert lab technicians.
 * Oleksiy, Fluri and me scanned the fishes on our old and trusty SkyScan 1172.
 * Dea and Matthias delineated the gills in the tomographic datasets, which was the basis for our analysis (the delineated regions are made available by [the OSF](https://osf.io/a5esx/)).
