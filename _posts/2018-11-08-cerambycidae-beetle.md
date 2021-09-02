@@ -23,4 +23,4 @@ It was scanned on a [SkyScan 1272](https://www.bruker.com/products/microtomograp
 
 Without the antennae, the beetle has a length of approximately 17 mm.
 
-The data set was visualized in [MeVisLab](http://www.sci.utah.edu/software/imagevis3d.html) with the new [MeVis Path Tracer feature](https://mevislabdownloads.mevis.de/docs/3.1/MeVisLab/Standard/Documentation/Publish/Overviews/PathTracerOverview.html).
+The data set was visualized in [MeVisLab](https://mevislab.de) with the [MeVis Path Tracer feature](https://mevislabdownloads.mevis.de/docs/3.1/MeVisLab/Standard/Documentation/Publish/Overviews/PathTracerOverview.html).

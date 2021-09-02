@@ -21,4 +21,4 @@ After drying, the head was scanned on a [SkyScan 1172](https://web.archive.org/w
 The left part of the head is rendered semi-transparently so that the (manually delineated) gills are nicely visible in red.
 The tip-to-tip distance of the gills (shown in red) is approximately 1.9 mm. 
 
-The data set was visualized in [MeVisLab](http://www.sci.utah.edu/software/imagevis3d.html) using its [Monte Carlo Path Tracing framework](https://mevislabdownloads.mevis.de/docs/3.1/MeVisLab/Standard/Documentation/Publish/Overviews/PathTracerOverview.html).
+The data set was visualized in [MeVisLab](https://mevislab.de) with the [MeVis Path Tracer feature](https://mevislabdownloads.mevis.de/docs/3.1/MeVisLab/Standard/Documentation/Publish/Overviews/PathTracerOverview.html).

@@ -25,5 +25,5 @@ The mouse head was scanned on a [SkyScan 1172](https://web.archive.org/web/20180
 The whole scan took about 74 minutes.
 I used the data set throughout the lecture to show different details and intricacies of the tomographic imaging process.
 
-The skull was visualized in [MeVisLab](http://www.sci.utah.edu/software/imagevis3d.html) with the [MeVis Path Tracer feature](https://mevislabdownloads.mevis.de/docs/3.1/MeVisLab/Standard/Documentation/Publish/Overviews/PathTracerOverview.html).
+The data set was visualized in [MeVisLab](https://mevislab.de) with the [MeVis Path Tracer feature](https://mevislabdownloads.mevis.de/docs/3.1/MeVisLab/Standard/Documentation/Publish/Overviews/PathTracerOverview.html).
 The movie was generated from a set of single frames [in the same manner as described previously]({{ site.baseurl }}{% post_url 2017-11-14-rat-eye %}).
