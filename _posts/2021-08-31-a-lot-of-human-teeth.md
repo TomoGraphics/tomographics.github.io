@@ -28,7 +28,7 @@ The notebook is freely available here: https://github.com/habi/zmk-tooth-cohort 
 
 After we've prepared the data for our collaborators we've tried to write up the whole process as a publication.
 This was achieved by using the collaborative writing function of [Manuscripts.io](https://manuscripts.io/).
-A *ready to submit*-version of the manuscript was exported to a set of Markdown files and imported into a [`manubot`](https://manubot.org/)-enabled [repository on GitHub](https://github.com/habi/zmk-tooth-cohort-method-manuscript), which automatically converts the text into both a nice-looking [website](https://habi.github.io/zmk-tooth-cohort-method-manuscript/) and [PDF filehttps://habi.github.io/zmk-tooth-cohort-method-manuscript/manuscript.pdf).
+A *ready to submit*-version of the manuscript was exported to a set of Markdown files and imported into a [`manubot`](https://manubot.org/)-enabled [repository on GitHub](https://github.com/habi/zmk-tooth-cohort-method-manuscript), which automatically converts the text into both a nice-looking [website](https://habi.github.io/zmk-tooth-cohort-method-manuscript/) and [PDF file](https://habi.github.io/zmk-tooth-cohort-method-manuscript/manuscript.pdf).
 The publication has just been accepted for PLOS ONE and should show up in relevant search engines, soon.
 
 The tooth shown in the header image of this post was scanned on a [SkyScan 1272]((https://www.bruker.com/en/products-and-solutions/microscopes/3d-x-ray-microscopes/skyscan-1272.html)) with a source voltage of 80 kV, a source current of 125 µA with camera and geometry settings leading to an isotropic voxel size of 10 µm.
