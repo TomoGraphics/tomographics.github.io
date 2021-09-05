@@ -22,7 +22,7 @@ We recently were able to publish a study where we automatically segmented the ro
 Here's a little explanation of the study, in which we used the *sample changer* of our [SkyScan 1272](https://www.bruker.com/en/products-and-solutions/microscopes/3d-x-ray-microscopes/skyscan-1272.html) quite intensively.
 In collaboration with the [zmk bern – Zahnmedizinische Kliniken](https://www.zmk.unibe.ch/) we were asked to image +100 human teeth (excess material from tooth operations/extractions) and prepare the tomographic datasets for characterization.
 As mentioned, we used the sample changer of our scanner for this, on which we mounted each tooth in a [custom-designed and 3D-printed sample holder](https://github.com/TomoGraphics/Hol3Drs/blob/master/STL/tooth_holder3.stl).
-After aqcuiring +800 GB of raw data we reconstructed the data into about 35 GB of reconstructions.
+After aqcuiring +800 GB of raw data we reconstructed the data into about 350 GB of reconstructions.
 All these reconstructions were then ingested into a pipeline in a [Jupyter notebook](https://jupyter.org/) with Python code.
 The notebook is freely available here: [https://github.com/habi/zmk-tooth-cohort](https://github.com/habi/zmk-tooth-cohort) and is able to be run with [`binder`](https://mybinder.org/) by clicking the relevant button in the GitHub repository above.
 
