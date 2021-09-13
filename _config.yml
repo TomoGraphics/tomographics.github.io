@@ -1,33 +1,33 @@
 # Site settings
-title:   µ-tomo
+title: µ-tomo
 tagline: 'All things (micro)tomography'
-url:     "http://micro.tomo.graphics" # the base hostname & protocol for your site
-email:   haberthuer@ana.unibe.ch
+url: "https://micro.tomo.graphics" # the base hostname & protocol for your site
+email: haberthuer@ana.unibe.ch
 description: > # this means to ignore newlines until "baseurl:"
   We do microtomography.
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 author:
   name: 'David Haberthür'
-  url:  http://davidhaberthür.ch
+  url: https://davidhaberthür.ch
 
 github_username:  habi
 twitter_username: habi
 
 # Build settings
-markdown:       kramdown
+markdown: kramdown
 
 # Dependencies
-highlighter:    rouge
+highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.0.0
+version: 2.0.0
 
 github:
-  repo:           https://github.com/tomographics/tomographics.github.io
+  repo: https://github.com/tomographics/tomographics.github.io
